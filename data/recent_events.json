@@ -1,0 +1,41 @@
+{
+  "events": [
+    {
+      "year": 2024,
+      "edition": 110,
+      "venue": "Hull",
+      "dates": "2024-07-27/2024-08-04",
+      "open_champion": "Gawain Jones",
+      "open_score": "7/9 then blitz play-off vs David Howell 1.5-0.5 after 1-1 rapid",
+      "women_champions": ["Lan Yao", "Trisha Kanyamarala"],
+      "source": "https://www.englishchess.org.uk/2024-british-chess-championship-results/"
+    },
+    {
+      "year": 2025,
+      "edition": 111,
+      "venue": "Liverpool (St George's Hall / Holiday Inn)",
+      "dates": "2025-07-31/2025-08-10",
+      "open_champion": "Michael Adams",
+      "open_score": "7/9; play-off: Conquest 2-0 Roberson, Adams 2-0 Conquest",
+      "women_champions": ["Lan Yao", "Elmira Mirzoeva"],
+      "women_score": "5.5/9 each",
+      "source": "https://www.britishchesschampionships.co.uk/2025-results-and-winners-page/"
+    },
+    {
+      "year": 2026,
+      "edition": 112,
+      "venue": "University of Warwick, Coventry",
+      "dates": "2026-08-01/2026-08-09",
+      "format": "9-round Swiss, 90/40 + 30 + 30s from move 1",
+      "entries_all_events": 2600,
+      "open_players": 108,
+      "open_champion": "Shreyas Royal",
+      "open_score": "7.5/9",
+      "open_runner_up": "Luke McShane",
+      "women_champion": "Bodhana Sivanandan",
+      "women_note": "Rapid play-off vs Trisha Kanyamarala",
+      "source_ecf": "https://www.englishchess.org.uk/the-2026-british-chess-championships-conclude-in-coventry/",
+      "source_chesscom": "https://www.chess.com/news/view/shreyas-bodhana-win-british-championship-2026"
+    }
+  ]
+}
