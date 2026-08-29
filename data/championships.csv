@@ -1,0 +1,124 @@
+edition,year,venue,status,open_champions,women_champions,notes
+1,1904,Hastings,held,William Ewart Napier,Kate Belinda Finn,"Play-off vs Atkins, Jan 1905"
+2,1905,Southport,held,Henry Ernest Atkins,Kate Belinda Finn,
+3,1906,Shrewsbury,held,Henry Ernest Atkins,Frances Dunn Herring,
+4,1907,Crystal Palace,held,Henry Ernest Atkins,Frances Dunn Herring,
+5,1908,Tunbridge Wells,held,Henry Ernest Atkins,Grace Moore Curling,
+6,1909,Scarborough,held,Henry Ernest Atkins,Gertrude Alison Anderson,
+7,1910,Oxford,held,Henry Ernest Atkins,Mary Mills Houlding,
+8,1911,Glasgow,held,Henry Ernest Atkins,Mary Mills Houlding,
+9,1912,Richmond,held,Richard Clewin Griffith,Gertrude Alison Anderson,
+10,1913,Cheltenham,held,Fred Dewhirst Yates,Amabel Nevill Gwyn Moseley,
+11,1914,Chester,held,Fred Dewhirst Yates,Mary Mills Houlding,
+,1915,,cancelled,,,World War I
+,1916,,cancelled,,,World War I
+,1917,,cancelled,,,World War I
+,1918,,cancelled,,,World War I
+12,1919,Hastings,no_open_title,,Edith Martha Holloway,Capablanca 1st in international; no British open title
+13,1920,Edinburgh,held,Roland Henry Vaughan Scott,Agnes Bradley Stevenson,
+14,1921,Malvern,held,Fred Dewhirst Yates,Gertrude Alison Anderson,
+15,1922,London,no_open_title,,Edith Charlotte Price,Capablanca 1st; no British open title
+16,1923,Southsea,held,George Alan Thomas,Edith Charlotte Price,
+17,1924,Southport,held,Henry Ernest Atkins,Edith Charlotte Price,
+18,1925,Stratford upon Avon,held,Henry Ernest Atkins,Agnes Bradley Stevenson,
+19,1926,Edinburgh,held,Fred Dewhirst Yates,Agnes Bradley Stevenson,
+20,1927,London,no_open_title,,,No British Championship contested
+21,1928,Tenby,held,Fred Dewhirst Yates,Edith Charlotte Price,
+22,1929,Ramsgate,held,Sultan Khan,Mary Dinorah Gilchrist,
+23,1930,Scarborough,no_open_title,,Agnes Bradley Stevenson,No open title
+24,1931,Worcester,held,Fred Dewhirst Yates,Edith Mary Ann Michell | Amy Eleanor Wheelwright,Shared women's title
+25,1932,London,held,Sultan Khan,Edith Mary Ann Michell,
+26,1933,Hastings,held,Sultan Khan,Ghulam Fatima,
+27,1934,Chester,held,George Alan Thomas,Mary Dinorah Gilchrist,
+28,1935,Great Yarmouth,held,William Winter,Edith Mary Ann Michell,
+29,1936,Bournemouth,held,William Winter,Edith Martha Holloway,Women's event at Nottingham
+30,1937,Blackpool,held,William Albert Fairhurst,Rowena Mary Dew,
+31,1938,Brighton,held,Hugh O'Donel Alexander,Minnie Musgrave,
+32,1939,Bournemouth,no_open_title,,Elaine Saunders,No open title
+,1940,,cancelled,,,World War II
+,1941,,cancelled,,,World War II
+,1942,,cancelled,,,World War II
+,1943,,cancelled,,,World War II
+,1944,,cancelled,,,World War II
+,1945,,cancelled,,,World War II
+33,1946,Nottingham,held,Robert Forbes Combe,Elaine Saunders,
+34,1947,Harrogate,held,Harry Golombek,Eileen Betsy Tranmer,
+35,1948,London,held,Reginald Joseph Broadbent,Edith Charlotte Price,
+36,1949,Felixstowe,held,Harry Golombek,Eileen Betsy Tranmer,
+37,1950,Buxton,held,Reginald Joseph Broadbent,Rowena Mary Bruce,
+38,1951,Swansea,held,Ernest Ludwig Klein,Rowena Mary Bruce,
+39,1952,Chester,held,Robert Graham Wade,,No women's contest
+40,1953,Hastings,held,Daniel Abraham Yanofsky,Eileen Betsy Tranmer,
+41,1954,Nottingham,held,Leonard William Barden | Alan Phillips,Rowena Mary Bruce,Shared open title
+42,1955,Aberystwyth,held,Harry Golombek,Joan Frances Doulton | Rowena Mary Bruce,Shared women's title
+43,1956,Blackpool,held,Hugh O'Donel Alexander,Elaine Pritchard,
+44,1957,Plymouth,held,Stefan Fazekas,Patricia Anne Sunnucks,
+45,1958,Leamington,held,Jonathan Penrose,Patricia Anne Sunnucks,
+46,1959,York,held,Jonathan Penrose,Rowena Mary Bruce,
+47,1960,Leicester,held,Jonathan Penrose,Rowena Mary Bruce,
+48,1961,Aberystwyth,held,Jonathan Penrose,Eileen Betsy Tranmer,
+49,1962,Whitby,held,Jonathan Penrose,Rowena Mary Bruce,
+50,1963,Bath,held,Jonathan Penrose,Rowena Mary Bruce,
+51,1964,Whitby,held,Michael John Haygarth,Patricia Anne Sunnucks,
+52,1965,Hastings,held,Peter Nicholas Lee,Elaine Pritchard,
+53,1966,Sunderland,held,Jonathan Penrose,Margaret Eileen Elizabeth Clarke | Gillian A Moore,Shared women's title
+54,1967,Oxford,held,Jonathan Penrose,Rowena Mary Bruce | Dinah Margaret Dobson,Shared women's title
+55,1968,Bristol,held,Jonathan Penrose,Dinah Margaret Dobson,
+56,1969,Rhyl,held,Jonathan Penrose,Rowena Mary Bruce | Dinah Margaret Dobson,Shared women's title
+57,1970,Coventry,held,Robert Graham Wade,Jana Hartston,
+58,1971,Blackpool,held,Raymond Dennis Keene,Jana Hartston,
+59,1972,Brighton,held,Brian Ratcliffe Eley,Jana Hartston,
+60,1973,Eastbourne,held,William Roland Hartston,Jana Hartston,
+61,1974,Clacton,held,George Steven Botterill,Jana Hartston,
+62,1975,Morecambe,held,William Roland Hartston,Sheila Jackson,
+63,1976,Portsmouth,held,Jonathan Mestel,Jana Hartston,
+64,1977,Brighton,held,George Steven Botterill,Jana Hartston,
+65,1978,Ayr,held,Jonathan Simon Speelman,Sheila Jackson,
+66,1979,Chester,held,Robert Bellin,Jana Hartston,
+67,1980,Brighton,held,John Denis Martin Nunn,Sheila Jackson,
+68,1981,Morecambe,held,Paul Edwin Littlewood,Sheila Jackson,
+69,1982,Torquay,held,Anthony John Miles,Jane Garwell,
+70,1983,Southport,held,Jonathan Mestel,Rani Hamid | Helen Milligan,Shared women's title
+71,1984,Brighton,held,Nigel David Short,Bhagyashree Sathe | Vasanti Khadilkar Unni,Shared women's title
+72,1985,Edinburgh,held,Jonathan Simon Speelman,Rani Hamid,
+73,1986,Southampton,held,Jonathan Simon Speelman,Susan Kathryn Arkell,
+74,1987,Swansea,held,Nigel David Short,Cathy Forbes,
+75,1988,Blackpool,held,Jonathan Mestel,Cathy Forbes,
+76,1989,Plymouth,held,Michael Adams,Rani Hamid,
+77,1990,Eastbourne,held,James Plaskett,Susan Kathryn Arkell,
+78,1991,Eastbourne,held,Julian Michael Hodgson,Susan Kathryn Arkell,
+79,1992,Plymouth,held,Julian Michael Hodgson,Susan Kathryn Arkell,
+80,1993,Dundee,held,Michael Thomas Hennigan,Saheli Dhar,
+81,1994,Norwich,held,William Nicholas Watson,Cathy Forbes,
+82,1995,Swansea,held,Matthew David Sadler,Harriet Vaughan Hunt,
+83,1996,Nottingham,held,Christopher G Ward,Harriet Vaughan Hunt,
+84,1997,Hove,held,Michael Adams | Matthew David Sadler,Harriet Vaughan Hunt,Shared open title
+85,1998,Torquay,held,Nigel David Short,Susan Kathryn Lalic,
+86,1999,Scarborough,held,Julian Michael Hodgson,Harriet Vaughan Hunt,
+87,2000,Street,held,Julian Michael Hodgson,Humpy Koneru,
+88,2001,Scarborough,held,Joseph Gerald Gallagher,Melanie Buckley,
+89,2002,Torquay,held,Ramachandran Ramesh,Humpy Koneru,
+90,2003,Edinburgh,held,Abhijit Kunte,Ketevan Arakhamia-Grant,
+91,2004,Scarborough,held,Jonathan Rowson,Ketevan Arakhamia-Grant,
+92,2005,"Douglas, Isle of Man",held,Jonathan Rowson,,No women's contest
+93,2006,Swansea,held,Jonathan Rowson,Ketevan Arakhamia-Grant,
+94,2007,Great Yarmouth,held,Jacob Aagaard,Ketevan Arakhamia-Grant,
+95,2008,Liverpool,held,Stuart Conquest,Jovanka Houska,
+96,2009,Torquay,held,David Wei Liang Howell,Jovanka Houska,
+97,2010,Canterbury,held,Michael Adams,Jovanka Houska,
+98,2011,Sheffield,held,Michael Adams,Jovanka Houska,
+99,2012,North Shields,held,Gawain Christopher B Jones,Jovanka Houska,
+100,2013,Torquay,held,David Wei Liang Howell,Sarah Hegarty | Akshaya Kalaiyalahan,Shared women's title
+101,2014,Aberystwyth,held,Jonathan Hawkins | David Wei Liang Howell,Amy B Hoare,Shared open title
+102,2015,Coventry,held,Jonathan Hawkins,Akshaya Kalaiyalahan,
+103,2016,Bournemouth,held,Michael Adams,Jovanka Houska,
+104,2017,Llandudno,held,Gawain Christopher B Maroroa-Jones,Jovanka Houska,
+105,2018,Hull,held,Michael Adams,Jovanka Houska,
+106,2019,Torquay,held,Michael Adams,Jovanka Houska,
+,2020,,cancelled,,,COVID-19 pandemic
+107,2021,Hull,held,Nicholas Pert,Harriet Vaughan Hunt,Seniors/juniors also Milton Keynes
+108,2022,Torquay,held,Harry Grieve,Yao Lan,
+109,2023,Leicester,held,Michael Adams,Yao Lan,
+110,2024,Hull,held,Gawain Christopher B Maroroa-Jones,Yao Lan | Trisha Kanyamarala,Play-off vs David Howell; joint women's champions
+111,2025,Liverpool,held,Michael Adams,Yao Lan | Elmira Mirzoeva,Three-way play-off Adams-Conquest-Roberson; 111th championship
+112,2026,Coventry,held,Shreyas Royal,Bodhana Sivanandan,University of Warwick; youngest open champion (17); youngest women's champion (11) after rapid play-off vs Trisha Kanyamarala
