@@ -13,11 +13,9 @@ Repo: https://github.com/UniCommunity/british-chess-championship
 
 | File | Use |
 | --- | --- |
-| `data/championships.csv` | One row per year (easy in Excel / pandas) |
-| `data/championships.json` | Same data plus dataset metadata |
+| `data/championships.csv` | One row per year — the main database |
 | `data/recent_events.json` | Extra detail for 2024–2026 |
-| `data/title_counts.json` | How many titles each player has in this table |
-| `scripts/query.py` | Tiny CLI over the JSON |
+| `scripts/query.py` | Filter the CSV by year, player, or venue |
 
 CSV columns: `edition,year,venue,status,open_champions,women_champions,notes`
 
@@ -27,7 +25,7 @@ CSV columns: `edition,year,venue,status,open_champions,women_champions,notes`
 - `no_open_title` — congress existed but the open British title was not at stake
 - `cancelled` — no championship (wars, 2020 pandemic)
 
-Shared titles are joined with ` | ` in the CSV and stored as arrays in JSON.
+Shared titles are joined with ` | `.
 
 ## Query examples
 
